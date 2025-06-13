@@ -107,7 +107,7 @@ Include a few screenshots here to show off the UI:
 
 ## 📄 License
 
-This project is currently unlicensed. You are free to fork and explore it for learning purposes. If you plan to use it commercially, please add an appropriate license.
+This project is currently unlicensed. You are free to fork and explore it for learning purposes. 
 
 ---
 
